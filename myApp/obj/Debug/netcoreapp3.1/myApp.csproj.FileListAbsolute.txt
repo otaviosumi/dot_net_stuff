@@ -1,0 +1,11 @@
+C:\Users\otavi\Documents\Git\dot_net_stuff\myApp\bin\Debug\netcoreapp3.1\myApp.exe
+C:\Users\otavi\Documents\Git\dot_net_stuff\myApp\bin\Debug\netcoreapp3.1\myApp.deps.json
+C:\Users\otavi\Documents\Git\dot_net_stuff\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.json
+C:\Users\otavi\Documents\Git\dot_net_stuff\myApp\bin\Debug\netcoreapp3.1\myApp.runtimeconfig.dev.json
+C:\Users\otavi\Documents\Git\dot_net_stuff\myApp\bin\Debug\netcoreapp3.1\myApp.dll
+C:\Users\otavi\Documents\Git\dot_net_stuff\myApp\bin\Debug\netcoreapp3.1\myApp.pdb
+C:\Users\otavi\Documents\Git\dot_net_stuff\myApp\obj\Debug\netcoreapp3.1\myApp.csprojAssemblyReference.cache
+C:\Users\otavi\Documents\Git\dot_net_stuff\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfoInputs.cache
+C:\Users\otavi\Documents\Git\dot_net_stuff\myApp\obj\Debug\netcoreapp3.1\myApp.AssemblyInfo.cs
+C:\Users\otavi\Documents\Git\dot_net_stuff\myApp\obj\Debug\netcoreapp3.1\myApp.dll
+C:\Users\otavi\Documents\Git\dot_net_stuff\myApp\obj\Debug\netcoreapp3.1\myApp.pdb

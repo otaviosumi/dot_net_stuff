@@ -6,7 +6,13 @@ namespace myApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            WorkingWithIntegers(18, 9);
+        }
+
+        static void WorkingWithIntegers(int a, int b)
+        { 
+            int c = a + b;
+            Console.WriteLine(c);
         }
     }
 }
